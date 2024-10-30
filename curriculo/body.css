@@ -1,0 +1,43 @@
+body {
+   text-align: left;
+   background-color: rgb(8, 8, 8);
+}
+
+h3 {
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+   list-style-type: none;
+   font-size: 150%;
+}
+.extracurricular{
+   /*ativando flexblox*/
+   display: flex;
+   flex-direction: column;
+   justify-content: vertical;
+   align-items: horizontal;
+   background-color: rgb(190, 190, 190);
+   padding: 90px;
+   margin: 5%;
+}
+.formacao{
+   /*ativando flexblox*/
+   display: flex;
+   flex-direction: column;
+   justify-content: vertical;
+   align-items: horizontal;
+   background-color: rgb(190, 190, 190);
+   padding: 90px;
+   margin: 5%;
+}
+.linguas{
+   /*ativando flexblox*/
+   display: flex;
+   flex-direction: column;
+   justify-content: vertical;
+   align-items: horizontal;
+   background-color: rgb(190, 190, 190);
+   padding: 90px;
+   margin: 5%;
+} 

@@ -1,0 +1,26 @@
+table, th, td {
+    border: 2px solid;
+    border-color: rgb(9, 9, 107);
+    border-collapse: collapse;
+   text-align: center;
+  }
+body{
+    background-color: rgb(255, 255, 255);
+    
+}
+th{
+    background-color: rgb(16, 16, 136);
+    color: cornsilk;
+    height: 70px;
+}
+table {
+    width: 100%;
+    font-family: sans-serif;
+   
+  }
+
+.aviso{
+    font-size: 20px;
+    color: rgb(184, 18, 18);
+}
+

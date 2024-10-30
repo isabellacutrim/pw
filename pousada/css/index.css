@@ -1,0 +1,128 @@
+nav {
+  background-color: rgb(15, 4, 73);
+  display: flex;
+  flex-direction: row;
+  justify-content: horizontal;
+  align-items: end;
+  color: rgb(255, 255, 255);
+  gap: 3rem;
+}
+
+h1 {
+  font-family: Bookman, URW Bookman L, serif;
+  max-width: 15%;
+  max-height: 20%;
+  font-size: 60px;
+  color: rgb(255, 255, 255);
+}
+
+.logo {
+  clip-path: circle(50%);
+  max-width: 13%;
+  max-height: 8%;
+}
+
+.titulo {
+  position: relative;
+  flex-direction: row;
+  margin-right: 50%;
+  margin-left: 50%;
+  gap: 3rem;
+}
+
+.logo {
+  position: relative;
+  flex-direction: row;
+}
+
+h2 {
+  text-align: center;
+  font-family: Bookman, URW Bookman L, serif;
+}
+
+.menu {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  justify-content: horizontal;
+  align-items: vertical;
+  margin: cap;
+  margin: 100px;
+  gap: 3rem;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  width: 20%;
+  height: 15%;
+}
+
+div {
+  color: deepskyblue;
+}
+
+.fotos {
+  align-items: end;
+  flex-direction: row;
+  justify-items: end;
+  display: flex;
+  width: 70%;
+  height: 10000%;
+}
+.promocao {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(41, 13, 199);
+  width: 300px;
+  text-align: center;
+}
+
+.desconto {
+  color: rgb(255, 255, 255);
+  background-color: rgb(32, 54, 255);
+  width: 255px;
+  height: 90px;
+  margin: auto;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+}
+
+.cards img {
+  width: 60%;
+  height: 60%;
+  object-fit: cover;
+  margin-right: 600px;
+}
+
+.promocao {
+  margin-right: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.item1 {
+  margin-left: 20px;
+}
+
+.fotos {
+  margin-right: 20px;
+}
+a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  gap: 3rem;
+}
+.li{
+    text-decoration: none;
+    gap: 5rem
+}
+
+.menu{
+  gap: 4rem;
+}

@@ -1,0 +1,19 @@
+img{
+    border-radius: 5%;
+    width: 40%;
+    height: 30%;
+}
+.titulo{
+    background-color: rgb(54, 54, 252);
+}
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: horizontal;
+    align-items: vertical;
+  
+  
+}
+
+
+   
